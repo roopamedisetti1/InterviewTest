@@ -1,0 +1,9 @@
+This is a simple linked list.
+
+1)  One of the JUnit tests is failing.  Try to figure out why the test is
+	failing, and fix the underlying problem.
+	
+2)  Turn the list into a doubly linked list, and then add an iterator that
+	iterates in reverse order.
+	
+	
