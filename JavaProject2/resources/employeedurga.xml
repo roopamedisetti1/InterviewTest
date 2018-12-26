@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GFInbound>
+	<KeyData>
+		<GF_Number>125548601</GF_Number>
+		<ACF_Application>1255486</ACF_Application>
+		<ACF_Cust_FName>Jane</ACF_Cust_FName>
+        <ACF_Cust_LName>Doe</ACF_Cust_LName>
+        <ACF_Cust_SSN>123456789</ACF_Cust_SSN>
+        <ACF_Cust_BirthDate>12-08-1980</ACF_Cust_BirthDate>
+		<Contract_Type>USRETAIL</Contract_Type>
+	</KeyData>
+	<ContractData>
+		<base_value>250000.00</base_value>
+		<rate_adj>1.67</rate_adj>
+		<tot_rate_val>25417.50</tot_rate_val>
+		<test_column>123456</test_column>
+	</ContractData>
+</GFInbound>

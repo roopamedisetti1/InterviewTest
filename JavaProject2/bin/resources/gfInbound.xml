@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GFInbound>
+	<KeyData>
+		<gfNumber>125548601</gfNumber>
+		<acfApplication>1255486</acfApplication>
+		<acfCustFName>Jane</acfCustFName>
+		<acfCustLName>Doe</acfCustLName>
+		<acfCustSSN>123456</acfCustSSN>
+		<acfCustBirthDate>12-08-1980</acfCustBirthDate>
+		<contractType>USRETAIL</contractType>
+	</KeyData>
+	<ContractData>
+		<baseValue>250000.00</baseValue>
+		<rateAdj>1.67</rateAdj>
+		<totRateVal>25417.50</totRateVal>
+	</ContractData>
+</GFInbound>
